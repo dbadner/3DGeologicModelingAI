@@ -1,0 +1,6 @@
+name: model-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.13
+  - pytorch_geometric=2.4.0

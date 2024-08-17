@@ -1,0 +1,13 @@
+numpy
+matplotlib
+meshpy
+plotly
+pandas
+scikit-learn
+seaborn
+pytorch_geometric
+scipy
+azure-identity
+azure-ai-ml
+debugpy
+jupyter

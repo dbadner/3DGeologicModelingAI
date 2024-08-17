@@ -1,0 +1,4 @@
+AML/Intermediate_Data/*
+AML/Output_Data/*
+!*.gitkeep
+__pycache__
