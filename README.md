@@ -1,7 +1,7 @@
 # 3DGeologicModelingAI
 Solution uses graph neural networks to create 3D geological models based on solution proposed by Hillier et al 2021. 
 
-Example output tetrahedral mesh with classified nodes:
+Example image of input drillhole training data with slice through output tetrahedral mesh with predicted nodes:
 ![Alt text](./ExampleOutput.png)
 
 ## Repository Information
